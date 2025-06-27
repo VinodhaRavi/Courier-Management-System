@@ -1,0 +1,2 @@
+class TrackingNumberNotFoundException(Exception):
+    pass
